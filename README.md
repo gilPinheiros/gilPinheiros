@@ -1,6 +1,6 @@
 ### Olá! sou gilmar Pinheiros
 
-- 🔭 Hoje estudando javafx ...
+- 🔭 Hoje estudando java & javafx ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gil-javafx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
