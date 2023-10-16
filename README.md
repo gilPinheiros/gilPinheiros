@@ -1,4 +1,4 @@
-### Olá! sou gilmar Pinheiros
+### Olá! Sou Gilmar Pinheiros
 
 - 🔭 Hoje estudando java & javafx ...
 
